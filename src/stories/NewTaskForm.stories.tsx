@@ -1,4 +1,4 @@
-import NewTaskForm from "./NewTaskForm";
+import NewTaskForm from "../components/NewTaskForm";
 
 export default {
     title: "Component/NewTaskFrom",
